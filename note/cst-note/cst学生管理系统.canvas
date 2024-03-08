@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"98c6eb9aa1c9719e","type":"text","text":"psql简单的快速学习","x":-520,"y":-940,"width":250,"height":60,"color":"1"},
+		{"id":"a6d361eaebf34c3e","type":"text","text":"文档结构","x":111,"y":-737,"width":250,"height":397},
+		{"id":"353720cb96de0740","type":"text","text":"### psql工具的使用\n- [x] 用psql连接数据库 ✅ 2023-09-24\n- [x] 关于psql工具的更多帮助 ✅ 2023-09-24\n- [x] psql中执行sql语句 ✅ 2023-09-24\n- [x] 交互式sql窗口中获取更多的帮助 ✅ 2023-09-24\n","x":-610,"y":-737,"width":340,"height":397},
+		{"id":"9fcaab71921d9b7f","type":"text","text":"### 数据库常用维护管理的命令\n- [x] 查看数据库版本号 ✅ 2023-09-24\n- [x] 查看所有数据库信息 ✅ 2023-09-24\n- [x] 查看数据库启动时间信息 ✅ 2023-09-24\n- [x] 查看用户信息 ✅ 2023-09-24\n- [x] 显示所有的表 ✅ 2023-09-24\n- [x] 查看表的大小 ✅ 2023-09-24\n- [x] 查看表结构 ✅ 2023-09-24\n- [x] 查看索引大小 ✅ 2023-09-24\n- [x] 创建新用户 ✅ 2023-09-24\n- [x] 创建和使用数据库 ✅ 2023-09-24\n- [x] 查看视图，函数，表口昂见 ✅ 2023-09-24\n","x":-240,"y":-737,"width":320,"height":397,"color":"6"}
+	],
+	"edges":[
+		{"id":"a1941079a0cf7c6d","fromNode":"98c6eb9aa1c9719e","fromSide":"bottom","toNode":"353720cb96de0740","toSide":"top"},
+		{"id":"250887ae9a8d99d5","fromNode":"98c6eb9aa1c9719e","fromSide":"bottom","toNode":"a6d361eaebf34c3e","toSide":"top"},
+		{"id":"0ed328ede64e4e16","fromNode":"98c6eb9aa1c9719e","fromSide":"bottom","toNode":"9fcaab71921d9b7f","toSide":"top"}
+	]
+}

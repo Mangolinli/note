@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c022ddf3bc8b243e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9da5f4dcc6b885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68372d92cd52c6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "培训笔记/Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea800f975fe9c954",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b58f9ca74708c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd8a665c91177c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78209189f385a201",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d263623b17749696",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85951e1410ad01f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff82fc9862074f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd3e33b03df92f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "培训笔记/Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "306945536b372a1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "培训笔记/Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55652978a39ff259",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb2b8a799080f0c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "培训笔记/Note.md"
+              }
+            }
+          },
+          {
+            "id": "744f9d7a55d8ac32",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-rich-links:Rich Links": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "9bd8a665c91177c8",
+  "lastOpenFiles": [
+    "2023-09-22.md",
+    "cst学生管理系统.canvas",
+    "作业复杂度分析.canvas",
+    "培训笔记/Note.md",
+    "培训笔记",
+    "国王与天使.canvas",
+    "Excalidraw/Drawing 2023-09-23 13.01.47.excalidraw.md",
+    "Excalidraw"
+  ]
+}

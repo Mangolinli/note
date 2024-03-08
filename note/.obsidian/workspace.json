@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "0285ac8af1dbdeec",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6ef05c1f6d8c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627ef21615c32261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件工程的路程/软件工程必学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "720ed041dd8440ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4964ab8471c6b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fc362716a877306",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "950a355c6a440a89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "145d981d529acadb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "39befbeeb27c4ccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6724a18728bfbdfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efeeee57ae6a38b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "软件工程的路程/软件工程必学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c52e6fa38e2f17bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "软件工程的路程/软件工程必学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b85b2a273df399fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e93cc7d998a927",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件工程的路程/软件工程必学.md"
+              }
+            }
+          },
+          {
+            "id": "ace814e372fda8c9",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "627ef21615c32261",
+  "lastOpenFiles": [
+    "算法note/算法笔记.md",
+    "软件工程的路程/软件工程必学.md",
+    "算法note/picture01/Pasted image 20240116182446.png",
+    "算法note/picture01/Pasted image 20240116182413.png",
+    "算法note/picture02",
+    "算法note/未命名.md",
+    "算法note/picture01/未命名.md",
+    "算法note/picture01/Pasted image 20240116175429.png",
+    "算法note/算法初级的笔记.md",
+    "mynote/项目/管理系统项目/购物网页管理系统.md",
+    "mynote/项目/打字游戏项目",
+    "mynote/项目/管理系统项目",
+    "算法note/picture01/Pasted image 20240112185746.png",
+    "算法note/picture01/Pasted image 20240112183440.png",
+    "算法note/picture01/Pasted image 20240112183227.png",
+    "算法note/picture01/Pasted image 20240112182548.png",
+    "mynote/MySQL/MySQL.md",
+    "算法note/算法中级的笔记.md",
+    "计算机组成与系统结构/笔记.md",
+    "mynote/MySQL/picture",
+    "mynote/MySQL/picture/Pasted image 20240102090958.png",
+    "mynote/MySQL",
+    "未命名",
+    "mynote/游戏设计/游戏设计.md",
+    "未命名.md",
+    "软件工程的路程",
+    "mynote/PostgreSql/PostgreSql.md",
+    "mynote/常用软件.md",
+    "算法note/picture01/Sorting_shellsort_anim.gif",
+    "算法note/picture01/Sorting_heapsort_anim.gif",
+    "算法note/picture01",
+    "算法note/新建文件夹",
+    "算法note/排序/排序.md",
+    "算法note/排序/未命名.canvas",
+    "Excalidraw/Drawing 2023-11-21 11.23.03.excalidraw.md",
+    "Excalidraw"
+  ]
+}
