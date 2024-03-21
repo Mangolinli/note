@@ -17,7 +17,8 @@
 	2. `bgcolor="green"`背景颜色
 	3. `type="password"`密码
 	4. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%2020230928010125.png)
-	5. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20230928010444.png)
+	5. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%2020230928010444.png)
+ 6. 	
 2. 基本
 	1. 注释
 		1. 快捷键CTRL+ /或者CTRL+ K+C
