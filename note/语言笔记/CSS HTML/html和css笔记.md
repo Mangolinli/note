@@ -16,20 +16,20 @@
 	1. `loop=“1”`只循环一次
 	2. `bgcolor="green"`背景颜色
 	3. `type="password"`密码
-	4. ![[Pasted image 20230928010125.png]]
-	5. ![[Pasted image 20230928010444.png]]
+	4. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%2020230928010125.png)
+	5. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20230928010444.png)
 2. 基本
 	1. 注释
 		1. 快捷键CTRL+ /或者CTRL+ K+C
-		2. ![[Pasted image 20230928020353.png]]
+		2. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20230928020353.png)
 	2. 文档声明
 		1. `!DOCTYPE html`
 		2. 是一种特殊的网页需要的，必须要有的。
 	3. 字符编码
-		1. ![[Pasted image 20230928021452.png]]
+		1. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20230928021452.png)
 	4. 设置语言
 		1. `<html lang="zh-CN">`
-		2. ![[Pasted image 20230928022757.png]]
+		2. ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20230928022757.png)
 		3. 生成文件的快捷键shift+！
 		4. 快速删除多行CTRL+shift+K
 #### HTML笔记
@@ -58,22 +58,22 @@
 ####  截图
 1. 定义内容
 	1. 标签
-		 ![[Pasted image 20231105174506.png]]
-		 ![[Pasted image 20231105174843.png]]
+		 ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105174506.png)
+		 ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105174843.png)
 	2. 引文标签定义
-		1![[Pasted image 20231105174854.png]]
+		1![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105174854.png)
 	3. 链接语法
-		![[Pasted image 20231105180611.png]]
-		![[Pasted image 20231105180655.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105180611.png)
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105180655.png)
 	4. 图像
-		![[Pasted image 20231105184722.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105184722.png)
 	5. 表格
-		![[Pasted image 20231105190625.png]]
-		![[Pasted image 20231105191149.png]]
-		![[Pasted image 20231105192441.png]]
-		![[Pasted image 20231105192514.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105190625.png)
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105191149.png)
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105192441.png)
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105192514.png)
 	6. 区块内联
-		![[Pasted image 20231105192726.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105192726.png)
 	7. 布局
 		1. `div`
 		``` html
@@ -144,9 +144,9 @@
 		</html>
 		```
 	8. 表单
-	![[Pasted image 20231105195220.png]]
-	![[Pasted image 20231105195339.png]]
-	![[Pasted image 20231105195409.png]]
+	   ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105195220.png)
+	   ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105195339.png)
+	   ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105195409.png)
 	 1. 简单的下拉表
 	 ```html
 	 <!DOCTYPE html>
@@ -223,7 +223,7 @@
 	</body>
 	</html>
 	```
-	![[Pasted image 20231105200525.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105200525.png)
 	7. 颜色
 	```html
 	<p style="background-color:#FFFF00">
@@ -239,10 +239,10 @@
 	</p>
 	```
 	8. 脚本
-	![[Pasted image 20231105202357.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105202357.png)
 	9.补录
-	![[Pasted image 20231105232324.png]]
-	![[Pasted image 20231105235737.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105232324.png)
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231105235737.png)
 
 ### CSS
 +  CSS 指层叠样式表 (**C**ascading **S**tyle **S**heets)
@@ -310,31 +310,31 @@
 			+ 一般情况下，优先级如下：
 				**（内联样式）Inline style > （内部样式）Internal style sheet >（外部样式）External style sheet > 浏览器默认样式**
 4. 背景(background)
-	![[Pasted image 20231106161804.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106161804.png)
 5. 文本（Text）
-	![[Pasted image 20231106161928.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106161928.png)
 6. 字体(fonts)
-	![[Pasted image 20231106162212.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106162212.png)
 7. 链接(link)
-	![[Pasted image 20231106162251.png]]
+	![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106162251.png)
 8. 列表
 	- 无序列表 ul - 列表项标记用特殊图形（如小黑点、小方框等）
 	- 有序列表 ol - 列表项的标记有数字或字母
 	- ```css
 		ul { list-style-image: url('sqpurple.gif'); }
 		```
-	- ![[Pasted image 20231106162555.png]]
+	- ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106162555.png)
 9. 表格(Table)
 	+ 指定CSS表格边框，使用border属性。
 	+ Width和height属性定义表格的宽度和高度。
 	+ 表格中的文本对齐和垂直对齐属性。text-align属性设置水平对齐方式，向左，右，或中心：
 10. 盒子模型
-	+ 盒子模型![[Pasted image 20231106162808.png]]
+	+ 盒子模型![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106162808.png)
 	+ 元素的总高度最终计算公式是这样的：
 		总元素的高度=高度+顶部填充+底部填充+上边框+下边框+上边距+下边距
 11. 边框(Border)
 	+ 例子
-		![[Pasted image 20231106163511.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106163511.png)
 	+ 例子2
 		```html
 		<!DOCTYPE html>
@@ -374,29 +374,29 @@
 		</html>
 		```
 		+ 结果：
-			![[Pasted image 20231106163641.png]]
+			![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106163641.png)
 	+ 边框宽度
 		+ 您可以通过 border-width 属性为边框指定宽度。
 		+ 为边框指定宽度有两种方法：可以指定长度值，比如 2px 或 0.1em(单位为 px, pt, cm, em 等)，或者使用 3 个关键字之一，它们分别是 thick 、medium（默认值） 和 thin。
 	+ 边框颜色
-		 ![[Pasted image 20231106163850.png]]
+		 ![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106163850.png)
 	+ 边框-单独设置各边
-		![[Pasted image 20231106163938.png]]
-		![[Pasted image 20231106163948.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106163938.png)
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106163948.png)
 	+ 边框-简写属性
-		![[Pasted image 20231106164034.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106164034.png)
 	+ 总结
-		![[Pasted image 20231106164116.png]]
+		![](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%20231106164116.png)
 12.  CSS 轮廓（outline）
 	1.定义
-		 ![[Pasted image 20231108170516.png]]
+		 ![](20231108170516.png)
 	 2.属性
-		 ![[Pasted image 20231108170909.png]]
+		 ![](20231108170909.png)
 1. CSS margin(外边距)
 	1. 定义
-	![[Pasted image 20231108171012.png]]
+	![](20231108171012.png)
 	2. 可能的值
-	![[Pasted image 20231108171107.png]]
+	![](20231108171107.png)
 	3. 单边外边距属性
 		1. 
 		```css
