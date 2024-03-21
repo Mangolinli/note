@@ -9,7 +9,7 @@
 //前面<marrquee>是一个标签起始</marquee>是标签结束
 //里面的marrquee叫做标签名，中间的“开心就好”叫做标签体
 ```
-![text](note/CSS HTML/picture/Pasted image 20230928004901.png)
+![text](https://github.com/Mangolinli/note/blob/master/note/%E8%AF%AD%E8%A8%80%E7%AC%94%E8%AE%B0/CSS%20HTML/picture/Pasted%20image%2020230928004901.png)
 + 规范小写，但是不分大小写
 + 不是所有的标签都是成对的。比如`<input>`
 1. html的属性
