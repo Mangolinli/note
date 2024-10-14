@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="第 1 页" id="8eZ3C1n26qP30vMQE8GJ">
+    <mxGraphModel dx="1114" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-1" value="学生&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-2" value="续借书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-4" value="预约书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-5" value="归还书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-6" value="借阅书籍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-7" value="报告生成" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-8" value="qq绑定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-9" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, blinkmacsystemfont, Helvetica Neue, helvetica, segoe ui, arial, roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif&quot; color=&quot;#060607&quot;&gt;&lt;span style=&quot;font-size: 14px; letter-spacing: 0.25px;&quot;&gt;搜索书籍&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-11" value="管理用户账户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-12" value="查看借阅历史" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-13" value="忘记密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-14" value="学生验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-15" value="邮箱登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-16" value="qq扫码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-17" value="微信绑定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-18" value="邮箱验证登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-19" value="微信扫码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-20" value="实名验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-21" value="账户密码登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-22" value="管理书籍信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-23" value="邮箱绑定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-24" value="电话号码绑定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-25" value="罚款管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-26" value="电话号码验证登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-27" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-28" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-29" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-30" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-31" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-32" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EEIpNGr0Fc8e5XohHnEv-33" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
